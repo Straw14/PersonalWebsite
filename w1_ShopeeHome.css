@@ -1,0 +1,305 @@
+body {
+    background-color: gainsboro;
+}
+
+#Comm_title {
+    height: 50px;
+}
+
+#Comm_LookAll {
+    text-align: center;
+    background-color: gainsboro;
+}
+
+.home_head {
+    background-color: orangered;
+    padding-top: 5px;
+    height: 30px;
+}
+
+.home_head a {
+    color: white;
+    text-decoration: none;
+}
+
+.head_top1 {
+    padding-left: 150px;
+    width: 65%;
+    float: left;
+}
+
+.head_top2 {
+    width: 35%;
+    float: right;
+}
+
+.home_head img {
+    width: 18px;
+    height: 18px;
+}
+
+
+/*------------------------------------------------*/
+
+.home_title {
+    padding-top: 20px;
+    height: 76px;
+    background-color: orangered;
+}
+
+.title_Icon {
+    float: left;
+    width: 20%;
+    padding-left: 150px;
+}
+
+.title_search {
+    float: right;
+    width: 68%;
+}
+
+.title_Icon img {
+    height: 52px;
+    width: auto;
+}
+
+.title_search input {
+    width: 80%;
+    font-family: Microsoft JhengHei;
+    /*微軟正黑體*/
+    font-size: 15px;
+    padding: 8px;
+}
+
+.title_search button img {
+    width: 30px;
+}
+
+
+/*--------------------------------------------------------*/
+
+.leftAd {
+    background-color: white;
+    text-align: center;
+    width: 62%;
+    float: left;
+}
+
+.rightAD {
+    background-color: white;
+    width: 38%;
+    float: right;
+}
+
+.leftAd img {
+    padding-left: 12%;
+    height: 294px;
+}
+
+.rightAD img {
+    padding-left: 2%;
+    height: 145px;
+}
+
+.FixAd img {
+    width: 1250px;
+    height: 150px;
+    padding: 1% 0% 1% 7%;
+}
+
+
+/*---------------------------*/
+
+.TagList {
+    background-color: white;
+    width: 90%;
+    float: left;
+    padding: 1% 0% 1% 10%;
+    /*上 右 下 左*/
+}
+
+.TagList button {
+    text-align: center;
+    border: transparent;
+    /*transparent==透明*/
+    background-color: transparent;
+    width: 7%;
+}
+
+.TagList button img {
+    width: 50px;
+    height: auto;
+}
+
+
+/*------------------------------------------------------------*/
+
+.SelfComm {
+    width: 90%;
+    float: left;
+    padding: 1% 6.8%;
+}
+
+.SelfComm button {
+    text-align: center;
+    border: transparent;
+    background-color: transparent;
+}
+
+.SelfComm button img {
+    width: 195px;
+    height: auto;
+}
+
+
+/*---------------------------------------------------------------*/
+
+.ThreeAD {
+    padding: 1% 6%;
+}
+
+.ThreeAD img {
+    width: 420px;
+    height: 90px;
+}
+
+
+/*--------------------------------------------------------*/
+
+.L1_LeftAD {
+    float: left;
+    width: 36%;
+}
+
+.L1_LeftAD img {
+    height: 483px;
+    width: 450px;
+    padding-left: 18%;
+}
+
+.RT4_RD4 {
+    padding-left: 1%;
+    float: right;
+    width: 63%;
+}
+
+.RT4_RD4 img {
+    height: 240px;
+    width: 200px;
+}
+
+
+/*-----------------------------------------------------*/
+
+.hotThree {
+    width: 100%;
+    float: left;
+}
+
+.hot1 {
+    width: 34.5%;
+    float: left;
+}
+
+.hot2 {
+    width: 28%;
+    float: left;
+}
+
+.hot3 {
+    width: 28%;
+    float: left;
+}
+
+.hotLeft {
+    float: left;
+}
+
+.hotLeft img {
+    width: 270px;
+    height: 270px;
+}
+
+.hotRight img {
+    width: 135px;
+    height: 135px;
+}
+
+.hotRight {
+    margin-right: 5px;
+    float: right;
+}
+
+
+/*------------------------------------------------------*/
+
+.Commodity {
+    width: 90%;
+    float: left;
+    padding: 1% 0% 1% 6%;
+}
+
+.Commodity img {
+    width: 201px;
+}
+
+.Commodity table {
+    border-spacing: 11px;
+}
+
+.Commodity td {
+    background-color: white;
+}
+
+.Commodity button {
+    background: transparent;
+    border: transparent;
+    font-size: 18px;
+    color: tomato;
+    padding-left: 20px;
+}
+
+
+/*---------------------------------------------------------*/
+
+.Tail_Top {
+    width: 82%;
+    float: left;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: white;
+}
+
+.mapList {
+    width: 91%;
+    float: left;
+    padding: 1% 0% 1% 7%;
+    background-color: white;
+}
+
+.mapList table {
+    border-spacing: 20px;
+}
+
+.mapList td {
+    background-color: white;
+    font-size: 13px;
+}
+
+
+/*--------------------------------------------*/
+
+.FooterList {
+    width: 95%;
+    float: left;
+    padding: 1% 0% 1% 7%;
+}
+
+.FooterList table {
+    border-spacing: 20px;
+}
+
+.FooterList td {
+    width: 300px;
+    font-size: 13px;
+}
